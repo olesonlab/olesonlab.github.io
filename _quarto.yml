@@ -1,17 +1,36 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "olesonlab.github.io"
+  title: "Oleson Lab"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: people.qmd
+        text: People
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: data.qmd
+        text: Data
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/olesonlab
+      - icon: twitter
+        href: https://twitter.com/@Olesonlab
+      - icon: envelope
+        href: koleson@hawaii.edu
+  page-footer: 
+    center: © 2023 Oleson Lab
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
 

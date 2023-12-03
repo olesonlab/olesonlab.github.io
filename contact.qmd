@@ -1,0 +1,15 @@
+---
+title: "Contact Information"
+format: html
+editor: visual
+---
+
+<strong style="font-size: 20px;">Kirsten Oleson, PhD</strong> <br>
+*Associate Professor* <br>
+Department of Natural Resources and Environmental Management <br>
+
+<i class="fa-solid fa-phone"></i> 808-956-8864 <br>
+<i class="fa-solid fa-envelope"></i> koleson@hawaii.edu <br>
+<i class="fa-solid fa-location-pin"></i> Sherman Lab 109 <br>
+  1910 East West Road <br>
+  Honolulu, HI 96822 <br>
