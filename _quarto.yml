@@ -8,25 +8,32 @@ website:
     left:
       - href: index.qmd
         text: Home
+        icon: house-door-fill
       - href: people.qmd
         text: People
+        icon: people-fill
       - href: research.qmd
         text: Research
+        icon: search
       - href: publications.qmd
         text: Publications
+        icon: book-fill
       - href: data.qmd
         text: Data
+        icon: bar-chart-line-fill
       - href: contact.qmd
         text: Contact
+        icon: telephone-fill
     right:
+      - icon: envelope
+        href: mailto:koleson@hawaii.edu
       - icon: github
         href: https://github.com/olesonlab
       - icon: twitter
         href: https://twitter.com/@Olesonlab
-      - icon: envelope
-        href: koleson@hawaii.edu
   page-footer: 
     center: © 2023 Oleson Lab
+  back-to-top-navigation: true
 
 format:
   html:
