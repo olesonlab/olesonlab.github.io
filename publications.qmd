@@ -6,9 +6,15 @@ editor: visual
 
 ## Research Themes
 
-{{< bi lightbulb-fill >}} Social-ecological systems modeling, valuation, and decision science <br>
-{{< bi water >}} Marine management <br>
-{{< fa seedling >}} Natural capital and green accounting
+::: {layout-ncol=3}
+
+{{< bi lightbulb-fill >}} Social-ecological systems modeling, valuation, and decision science {{< pagebreak >}}
+
+{{< fa seedling >}} Natural capital and green accounting {{< pagebreak >}}
+
+{{< bi water >}} Marine management {{< pagebreak >}}
+
+:::
 
 ## Refereed/Peer Reviewed
 

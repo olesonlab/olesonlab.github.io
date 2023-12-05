@@ -7,21 +7,31 @@ format: html
 
 My group currently has a number of interdisciplinary projects under three research themes:
 
-### {{< bi lightbulb-fill >}} Social-ecological systems modeling, valuation, and decision science
+::: {.panel-tabset}
+
+### {{< bi lightbulb-fill >}} 
+
+#### Social-ecological systems modeling, valuation, and decision science
 
 How will environmental changes (i.e., land use change, climate change, ocean acidification, invasive species) impact the ecosystem goods and services provided by Hawaiʻi’s ecosystems, and what are the consequence for human wellbeing?
 
 How do land management practices affecting erosion, groundwater recharge, and water quality impact ecosystem services across the watershed, from mountain ridge to coral reef? Where are there trade-offs and win-win opportunities? How can we apply economics and decision science to make better decisions?
 
-### {{< bi water >}} Marine management
+### {{< fa seedling >}} 
 
-What are the socio-economic impacts of Palau’s National Marine Sanctuary?
-
-### {{< fa seedling >}} Natural capital and green accounting
+#### Natural capital and green accounting
 
 What is the true progress of Hawaii, measured using the Genuine Progress Indicator? 
 
 What stocks of natural capital does Hawaii have, and what ecosystem services flow from these?
+
+### {{< bi water >}} 
+
+#### Marine management
+
+What are the socio-economic impacts of Palau’s National Marine Sanctuary?
+
+:::
 
 ## Support and Recognition
 

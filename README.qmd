@@ -19,6 +19,9 @@ All of the following is what was used to build our website:
   - [GitHub Repository](https://github.com/cct-datascience/CALS-workshops/tree/main/202210-quarto-website)
 - Publish a Quarto website with Netlify by Jadey Ryan - 11/19/23
   - [Blog Post](https://jadeyryan.com/blog/2023-11-19_publish-quarto-website/)
+- Beautiful reports and presentations with Quarto | Led by Tom Mock, RStudio by Posit PBC - 9/27/22
+  - [YouTube Video](https://www.youtube.com/watch?v=hbf7Ai3jnxY&list=PLNuj1Dnarqy7ovHFrKTYDuD545QuaTkpA&index=3)
+  - [GitHub Repository](https://github.com/jthomasmock/quarto-reporting)
 - Official Quarto Documentation - Creating a Website
   - [Online Book](https://quarto.org/docs/websites/)
 
