@@ -22,6 +22,10 @@ All of the following is what was used to build our website:
 - Beautiful reports and presentations with Quarto | Led by Tom Mock, RStudio by Posit PBC - 9/27/22
   - [YouTube Video](https://www.youtube.com/watch?v=hbf7Ai3jnxY&list=PLNuj1Dnarqy7ovHFrKTYDuD545QuaTkpA&index=3)
   - [GitHub Repository](https://github.com/jthomasmock/quarto-reporting)
+  - [Presentation Slides](https://thomasmock.quarto.pub/reports-presentations/)
+- Just enough CSS (and Sass) for data scientists by Sam Csik - 8/3/23
+  - [Presentation Slides](https://samanthacsik.github.io/just-enough-css-sass/#/title-slide)
+  - [GitHub Repository](https://github.com/samanthacsik/just-enough-css-sass)
 - Official Quarto Documentation - Creating a Website
   - [Online Book](https://quarto.org/docs/websites/)
 
@@ -42,3 +46,9 @@ Icons:
 - [Font Awesome](https://github.com/quarto-ext/fontawesome)
 - [Academicons](https://github.com/schochastics/academicons)
 - [Bootstrap Icons](https://github.com/shafayetShafee/bsicons)
+
+## Styling
+
+- [Google Fonts](https://fonts.google.com/)
+- [Quarto Sass Variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables)
+= [Coolors Color Palette Generator](https://coolors.co/)

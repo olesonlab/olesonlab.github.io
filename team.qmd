@@ -1,23 +1,23 @@
 ---
-title: "People"
+title: "{{< bi people-fill >}} Team"
 format: html
 editor: visual
 ---
 
-![](images/oleson_lab_current_members.jpg){fig-align="center"}
+![](images/oleson_lab_current_members.jpg){fig-align="center" .rounded}
 
 ## Principal Investigator
 
-### **Kirsten L.L. Oleson** 
+### Kirsten L.L. Oleson 
 
 ::: {.column-margin}
 
 <center>
-![](images/kirsten_oleson_headshot.jpeg)
+![](images/kirsten_oleson_headshot.jpeg){.rounded}
 
 <br>
+[{{< ai orcid size=Huge >}}](https://orcid.org/0000-0002-7992-5051) 
 [{{< ai google-scholar size=Huge >}}](https://scholar.google.com/citations?user=4pP2V9wAAAAJ&hl=en&oi=ao)
-[{{< ai orcid size=Huge >}}](https://orcid.org/0000-0002-7992-5051)
 [{{< ai researchgate size=Huge >}}](https://www.researchgate.net/profile/Kirsten_Oleson) 
 </center><br>
 
@@ -90,12 +90,12 @@ in Economics from the University of Hawaii at Manoa. Nearing her third year in t
 ::: {.column-margin}
 
 <center>
-![](images/alemarie_ceria_headshot.jpg){width=65%}
+![](images/alemarie_ceria_headshot.jpg){width=65% .rounded}
 
 <br>
 [{{< fa brands orcid size=Huge >}}](https://orcid.org/0000-0002-3039-7323)
 [{{< fa brands linkedin size=Huge >}}](https://www.linkedin.com/in/alemarieceria/) 
-[{{< fa brands github size=Huge >}}](https://github.com/alemarieceria)
+[{{< fa brands github size=Huge >}}](https://github.com/alemarieceria) 
 </center>
 :::
 

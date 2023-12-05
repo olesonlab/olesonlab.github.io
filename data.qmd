@@ -1,5 +1,5 @@
 ---
-title: "Data"
+title: "{{< bi bar-chart-line-fill >}} Data"
 format: html
 ---
 

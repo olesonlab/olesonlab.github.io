@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "{{< bi book-fill >}} Publications"
 format: html
 editor: visual
 ---
@@ -7,14 +7,14 @@ editor: visual
 ## Research Themes
 
 ::: {layout-ncol=3}
+{{< bi lightbulb-fill color="#F21356"  >}} -- Social-ecological systems modeling, valuation, and decision science {{< pagebreak >}}
 
-{{< bi lightbulb-fill >}} Social-ecological systems modeling, valuation, and decision science {{< pagebreak >}}
+{{< bi currency-dollar color="#F21356"  >}} -- Natural capital and green accounting {{< pagebreak >}}
 
-{{< fa seedling >}} Natural capital and green accounting {{< pagebreak >}}
-
-{{< bi water >}} Marine management {{< pagebreak >}}
+{{< bi water color="#F21356"  >}} -- Marine management {{< pagebreak >}}
 
 :::
+</p>
 
 ## Refereed/Peer Reviewed
 

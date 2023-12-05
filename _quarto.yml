@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
         icon: house-door-fill
-      - href: people.qmd
-        text: People
+      - href: team.qmd
+        text: Team
         icon: people-fill
       - href: research.qmd
         text: Research
@@ -40,7 +40,7 @@ website:
       [{{< bi twitter-x >}}](https://twitter.com/@Olesonlab)
       <br>
       <strong>Quick Links</strong>: 
-      [{{< bi people-fill >}}](http://localhost:3636/people.html)
+      [{{< bi people-fill >}}](http://localhost:3636/team.html)
       [{{< bi search >}}](http://localhost:3636/research.html)
       [{{< bi book-fill >}}](http://localhost:3636/publications.html)
       [{{< bi bar-chart-line-fill >}}](http://localhost:3636/data.html)
@@ -54,11 +54,16 @@ website:
       <br><br>
       © 2023 Oleson Lab, University of Hawaii at Manoa 
   back-to-top-navigation: true
+  open-graph: 
+    site-name: "Oleson Lab Website"
 
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme: 
+      light: [flatly, theme_light.scss]
+      dark: [darkly, theme_dark.scss]
+    # litera
+    # css: styles.css
     toc: true
 
 

@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+
+// colors
+$darkslategray: #35524A;
+$slategray: #627c85;
+$airblue: #779cab;
+$skyblue: #7393B3;
+$tiffanyblue: #a2e8dd;
+$emerald: #32de8a;
+$softwhite: #F5F5F5;
+$cyanblue: #4DD0E1;
+$sagegreen: #8FA482;
+$mutedgold: #F7DC6F;
+$coralred: #E74C3C;
+$teal: #18BC9C;
+$greenh1: #709775;
+$greenlinks: #a1cca5;
+$highlight: #84a98c;
+
+$reg: #158ACF;
+$highlight: #F21356;
+
+// $body-color: $softwhite;
+$navbar-bg: transparent;
+$navbar-fg: $softwhite;
+$footer-bg: transparent;
+$footer-fg: $softwhite;
+$link-color: $reg;
+
+/*-- scss:rules --*/
+
+// document title styling
+.title {
+  color: $reg;
+  font-size: 2.3em;
+}
+
+// document title styling
+#custom-title {
+  color: $reg;
+  font-size: 2.3em;
+}
+
+// highlight text custom stying
+.highlight-color {
+  color: $highlight; 
+}
+
+#quarto-back-to-top {
+  color: $reg !important;
+}
