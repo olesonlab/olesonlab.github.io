@@ -21,18 +21,37 @@ website:
       - href: data.qmd
         text: Data
         icon: bar-chart-line-fill
-      - href: contact.qmd
-        text: Contact
-        icon: telephone-fill
+      # - href: contact.qmd
+      #   text: Contact
+      #   icon: telephone-fill
     right:
-      - icon: envelope
+      - icon: envelope-fill
         href: mailto:koleson@hawaii.edu
       - icon: github
         href: https://github.com/olesonlab
-      - icon: twitter
+      - icon: twitter-x
         href: https://twitter.com/@Olesonlab
   page-footer: 
-    center: © 2023 Oleson Lab
+    border: true
+    right: |
+      <strong>Oleson Lab</strong><br>
+      <strong>Follow Us</strong>:
+      [{{< bi github >}}](https://github.com/olesonlab)
+      [{{< bi twitter-x >}}](https://twitter.com/@Olesonlab)
+      <br>
+      <strong>Quick Links</strong>: 
+      [{{< bi people-fill >}}](http://localhost:3636/people.html)
+      [{{< bi search >}}](http://localhost:3636/research.html)
+      [{{< bi book-fill >}}](http://localhost:3636/publications.html)
+      [{{< bi bar-chart-line-fill >}}](http://localhost:3636/data.html)
+    left: |
+      <strong>Contact Us</strong>: <br>
+      koleson@hawaii.edu <br>
+      Sherman Lab 109, 1910 East West Road, Honolulu, HI 96822
+
+    center: |
+      <br><br>
+      © 2023 Oleson Lab, University of Hawaii at Manoa 
   back-to-top-navigation: true
 
 format:

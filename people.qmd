@@ -4,6 +4,8 @@ format: html
 editor: visual
 ---
 
+![](images/oleson_lab_current_members.jpg){fig-align="center"}
+
 ## Principal Investigator
 
 ### **Kirsten L.L. Oleson** 
@@ -51,8 +53,6 @@ My research focuses on improving natural resource and environmental management b
 In 2021, I was awarded a [Pew Marine Conservation Fellowship to build coastal ecosystem accounts for Hawaiʻi](https://www.pewtrusts.org/en/projects/marine-fellows/fellows-directory/2021/kirsten-ll-oleson).
 
 ## Current Lab Members
-
-![](images/oleson_lab_current_members.jpg){fig-align="center" width="70%"}
 
 ### Post-Doctoral Fellows
 
