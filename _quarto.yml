@@ -40,10 +40,10 @@ website:
       [{{< bi twitter-x >}}](https://twitter.com/@Olesonlab)
       <br>
       <strong>Quick Links</strong>: 
-      [{{< bi people-fill >}}](http://localhost:3636/team.html)
-      [{{< bi search >}}](http://localhost:3636/research.html)
-      [{{< bi book-fill >}}](http://localhost:3636/publications.html)
-      [{{< bi bar-chart-line-fill >}}](http://localhost:3636/data.html)
+      [{{< bi people-fill >}}](https://olesonlab.github.io/team.html)
+      [{{< bi search >}}](https://olesonlab.github.io/research.html)
+      [{{< bi book-fill >}}](https://olesonlab.github.io/publications.html)
+      [{{< bi bar-chart-line-fill >}}](https://olesonlab.github.io/data.html)
     left: |
       <strong>Contact Us</strong>: <br>
       808-956-8864 |
