@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-format: html
+format: markdown_github
 editor: visual
 ---
 
