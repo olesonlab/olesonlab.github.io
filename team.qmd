@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-![](images/oleson_lab_current_members.jpg){fig-align="center" .rounded}
+![](images/oleson_lab_current_members.jpg){width=100% fig-align="center" .rounded}
 
 ## Principal Investigator
 
@@ -84,13 +84,10 @@ In 2021, I was awarded a [Pew Marine Conservation Fellowship to build coastal ec
 
 #### Alemarie Ceria
 
-Alemarie Ceria, a Research Data Analyst, holds a B.A.
-in Economics from the University of Hawaii at Manoa. Nearing her third year in the lab, she is actively engaged in the Hawaii Coastal Ecosystem Accounting (CEA), the California Innovations at the Nexus of Food, Energy, and Water Systems (INFEWS), and Ocean Acidification (OA) projects. Her responsibilities encompass comprehensive data management, collection, and analysis. Additionally, she focuses on developing visualizations for reports, presentations, and papers while reinforcing the reproducibility of research across the lab's diverse projects. She co-authored "[Detecting Religion from Space: Nyepi Day in Bali](https://www.sciencedirect.com/science/article/abs/pii/S2352938521001440?via%3Dihub)," published in *Remote Sensing Applications: Society and Environment* on September 6, 2021.
-
 ::: {.column-margin}
 
 <center>
-![](images/alemarie_ceria_headshot.jpg){width=65% .rounded}
+![](images/alemarie_ceria_headshot.jpg){width=70% .rounded}
 
 <br>
 [{{< fa brands orcid size=Huge >}}](https://orcid.org/0000-0002-3039-7323)
@@ -98,6 +95,9 @@ in Economics from the University of Hawaii at Manoa. Nearing her third year in t
 [{{< fa brands github size=Huge >}}](https://github.com/alemarieceria) 
 </center>
 :::
+
+Alemarie Ceria, a Research Data Analyst, holds a B.A.
+in Economics from the University of Hawaii at Manoa. Nearing her third year in the lab, she is actively engaged in the Hawaii Coastal Ecosystem Accounting (CEA), the California Innovations at the Nexus of Food, Energy, and Water Systems (INFEWS), and Ocean Acidification (OA) projects. Her responsibilities encompass comprehensive data management, collection, and analysis. Additionally, she focuses on developing visualizations for reports, presentations, and papers while reinforcing the reproducibility of research across the lab's diverse projects. She co-authored "[Detecting Religion from Space: Nyepi Day in Bali](https://www.sciencedirect.com/science/article/abs/pii/S2352938521001440?via%3Dihub)," published in *Remote Sensing Applications: Society and Environment* on September 6, 2021.
 
 #### Kate Crowell
 

@@ -1,9 +1,11 @@
 ---
-image: images/temp_oleson_lab_logo.png
+# image: images/temp_oleson_lab_logo.png
 about:
   template: jolla
   image-shape: rounded
 ---
+
+![](images/temp_oleson_lab_logo.png){width=32% fig-align="center" .rounded}
 
 <h1 class='title' id='custom-title'>
 Welcome! E komo mai!
