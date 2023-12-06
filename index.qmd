@@ -1,13 +1,13 @@
 ---
-title: |
-  <h1 class='title' id='custom-title'>
-  Welcome! E komo mai!
-  </h1>
 image: images/temp_oleson_lab_logo.png
 about:
   template: jolla
   image-shape: rounded
 ---
+
+<h1 class='title' id='custom-title'>
+Welcome! E komo mai!
+</h1>
 
 Thank you for visiting the site of the Oleson Ecological Economics lab within the <br> [Department of Natural Resources and Environmental Management](http://www.ctahr.hawaii.edu/nrem/) at the University of Hawaiʻi at Mānoa.
 

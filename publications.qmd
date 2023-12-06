@@ -7,11 +7,11 @@ editor: visual
 ## Research Themes
 
 ::: {layout-ncol=3}
-{{< bi lightbulb-fill color="#F21356"  >}} -- Social-ecological systems modeling, valuation, and decision science {{< pagebreak >}}
+{{< bi lightbulb-fill color="#18BC9C"  >}} -- Social-ecological systems modeling, valuation, and decision science {{< pagebreak >}}
 
-{{< bi currency-dollar color="#F21356"  >}} -- Natural capital and green accounting {{< pagebreak >}}
+{{< bi currency-dollar color="#18BC9C"  >}} -- Natural capital and green accounting {{< pagebreak >}}
 
-{{< bi water color="#F21356"  >}} -- Marine management {{< pagebreak >}}
+{{< bi water color="#18BC9C"  >}} -- Marine management {{< pagebreak >}}
 
 :::
 </p>
