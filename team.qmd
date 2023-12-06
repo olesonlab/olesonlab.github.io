@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-![](images/oleson_lab_current_members.jpg){width=100% fig-align="center" .rounded}
+![](images/oleson_lab_current_members.jpg){fig-align="center" .rounded}
 
 ## Principal Investigator
 
@@ -87,7 +87,7 @@ In 2021, I was awarded a [Pew Marine Conservation Fellowship to build coastal ec
 ::: {.column-margin}
 
 <center>
-![](images/alemarie_ceria_headshot.jpg){width=70% .rounded}
+![](images/alemarie_ceria_headshot.jpg){.rounded}
 
 <br>
 [{{< fa brands orcid size=Huge >}}](https://orcid.org/0000-0002-3039-7323)
