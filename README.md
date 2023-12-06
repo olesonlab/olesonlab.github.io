@@ -72,4 +72,4 @@ Icons:
 -   [Google Fonts](https://fonts.google.com/)
 -   [Quarto Sass
     Variables](https://quarto.org/docs/output-formats/html-themes.html#sass-variables)
-    = [Coolors Color Palette Generator](https://coolors.co/)
+-   [Coolors Color Palette Generator](https://coolors.co/)
