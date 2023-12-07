@@ -11,7 +11,9 @@ My group currently has a number of interdisciplinary projects under three resear
 
 ### {{< bi lightbulb-fill color="#18BC9C" >}} 
 
-<h4 class="highlight-color">Social-ecological systems modeling, valuation, and decision science</h4>
+<!-- <h4 class="highlight-color">Social-ecological systems modeling, valuation, and decision science</h4> -->
+
+#### Social-ecological systems modeling, valuation, and decision science<
 
 How will environmental changes (i.e., land use change, climate change, ocean acidification, invasive species) impact the ecosystem goods and services provided by Hawaiʻi’s ecosystems, and what are the consequence for human wellbeing?
 
@@ -19,13 +21,17 @@ How do land management practices affecting erosion, groundwater recharge, and wa
 
 ### {{< bi currency-dollar color="#18BC9C"  >}} 
 
-<h4 class="highlight-color">Natural capital and green accounting</h4>
+<!-- <h4 class="highlight-color">Natural capital and green accounting</h4> -->
+
+#### Natural capital and green accounting
 
 What is the true progress of Hawaii, measured using the Genuine Progress Indicator? What stocks of natural capital does Hawaii have, and what ecosystem services flow from these?
 
 ### {{< bi water color="#18BC9C"  >}} 
 
-<h4 class="highlight-color">Marine management</h4>
+<!-- <h4 class="highlight-color">Marine management</h4> -->
+
+#### Marine management
 
 What are the socio-economic impacts of Palau’s National Marine Sanctuary?
 

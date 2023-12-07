@@ -27,27 +27,27 @@ $navbar-bg: transparent;
 $navbar-fg: $softwhite;
 $footer-bg: transparent;
 $footer-fg: $softwhite;
-$link-color: $reg;
+$link-color: $highlight;
 
 /*-- scss:rules --*/
 
 // document title styling
-.title {
-  color: $reg;
-  font-size: 2.3em;
-}
+// .title {
+  // color: $reg;
+  // font-size: 2.3em;
+// // }
 
 // document title styling
-#custom-title {
-  color: $reg;
-  font-size: 2.3em;
-}
+// #custom-title {
+  // color: $reg;
+  // font-size: 2.3em;
+// }
 
 // highlight text custom stying
 .highlight-color {
   color: $highlight; 
 }
 
-#quarto-back-to-top {
-  color: $reg !important;
-}
+// #quarto-back-to-top {
+  // color: $reg !important;
+// }
