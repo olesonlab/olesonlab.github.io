@@ -5,7 +5,7 @@ format: html
 
 ## Research Themes
 
-::: {layout-ncol=3 .highlight-color}
+::: {layout-ncol=3}
 [{{< bi lightbulb-fill  >}}](https://olesonlab.github.io/research.html#themes) -- Social-ecological systems modeling, valuation, and decision science {{< pagebreak >}}
 
 [{{< bi currency-dollar >}}](https://olesonlab.github.io/research.html#themes) -- Natural capital and green accounting {{< pagebreak >}}
@@ -16,9 +16,7 @@ format: html
 
 Please select the icons to access detailed descriptions of each research theme.
 
-## Refereed/Peer Reviewed
-
-Denotations: \* is co-primary author, and [students/advisees]{.underline} are underscored
+## Refereed/Peer Reviewed^[Denotations: \* is co-primary author, and [students/advisees]{.underline} are underscored]
 
 ### 2022
 
@@ -161,234 +159,156 @@ Weijerman, M., C. Grace-McCaskey, [S. Grafeld]{.underline}, D. Kotowicz, **K.L.L
 
 ### 2015
 
-Barnes-Mauthe\*, M., **K.L.L. Oleson**\*, L.M. Brander, B. Zafindrasilivonona, T.A. Oliver, and P. van Beukering (2015).
-Social capital as an ecosystem service: Evidence from a locally managed area.
-Ecosystem Services 16:283-293.
+Barnes-Mauthe\*, M., **K.L.L. Oleson**\*, L.M. Brander, B. Zafindrasilivonona, T.A. Oliver, and P. van Beukering (2015). Social capital as an ecosystem service: Evidence from a locally managed area. *Ecosystem Services* 16:283-293.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1016/j.ecoser.2014.10.009){.btn .btn-outline-light .btn-theme target="_blank"}
 
-Bremer, L., J. Delevaux, L. Cox, J. Leary and **K.L.L. Oleson** (2015).
-Opportunities and Strategies to Incorporate Ecosystem Services Knowledge and Decision Support Tools into Planning and Decision Making in Hawai'i.
-Environmental Management 55(4):884-899.
+Bremer, L., J. Delevaux, L. Cox, J. Leary and **K.L.L. Oleson** (2015). Opportunities and Strategies to Incorporate Ecosystem Services Knowledge and Decision Support Tools into Planning and Decision Making in Hawai'i. *Environmental Management* 55(4):884-899.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1007/s00267-014-0426-4){.btn .btn-outline-light .btn-theme target="_blank"}
 
-McKeon, C.S., M.X. Weber, S.E. Alter, N.E. Seavy, E.D. Crandall, D. Barshis, E. Fletcher-Leggett, and **K.L.L. Oleson** (2015).
-Melting barriers to faunal exchange across ocean basins.
-Global Change Biology.
+McKeon, C.S., M.X. Weber, S.E. Alter, N.E. Seavy, E.D. Crandall, D. Barshis, E. Fletcher-Leggett, and **K.L.L. Oleson** (2015). Melting barriers to faunal exchange across ocean basins. *Global Change Biology*.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1111/gcb.13116){.btn .btn-outline-light .btn-theme target="_blank"}
 
-Oliver, T.A.\*, **K.L.L. Oleson**\*, [H. Ratsimbazafy]{.underline}, D. Raberinary, S. Benbow, and A.
-Harris (2015).
-Positive Catch & Economic Benefits of Periodic Octopus Fishery Closures: Do Effective, Narrowly Targeted Actions 'Catalyze' Broader Management?.
-PlosOne 10(6):e0129075.
+Oliver, T.A.\*, **K.L.L. Oleson**\*, [H. Ratsimbazafy]{.underline}, D. Raberinary, S. Benbow, and A. Harris (2015). Positive Catch & Economic Benefits of Periodic Octopus Fishery Closures: Do Effective, Narrowly Targeted Actions 'Catalyze' Broader Management?. *PlosOne* 10(6):e0129075.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1371/journal.pone.0129075){.btn .btn-outline-light .btn-theme target="_blank"}
 
-**Oleson, K.L.L.**\*, [M. Barnes]{.underline}\*, L. M. Brander, T. A. Oliver, I.
-van Beek, B Zafindrasilivonona, P. van Beukering (2015).
-Cultural bequest values for ecosystem service flows among indigenous fishers: A discrete choice experiment validated with mixed methods.
-Ecological Economics 114:104-116.
+**Oleson, K.L.L.**\*, [M. Barnes]{.underline}\*, L. M. Brander, T. A. Oliver, I. van Beek, B Zafindrasilivonona, P. van Beukering (2015). Cultural bequest values for ecosystem service flows among indigenous fishers: A discrete choice experiment validated with mixed methods. *Ecological Economics* 114:104-116.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://dx.doi.org/10.2139/ssrn.2516507){.btn .btn-outline-light .btn-theme target="_blank"}
 
-Kittinger, J.N., L. Teneva, H. Koike, K. Stamoulis, D.S. Kittinger, **K.L.L. Oleson**, E. Conklin, M. Gomes, B. Wilcox, and A.
-Friedlander (2015).
-From reef to table: social and ecological factors affecting coral reef fisheries, artisanal seafood supply chains, and seafood security.
-PlosOne 10(8):e0123856.
+Kittinger, J.N., L. Teneva, H. Koike, K. Stamoulis, D.S. Kittinger, **K.L.L. Oleson**, E. Conklin, M. Gomes, B. Wilcox, and A. Friedlander (2015). From reef to table: social and ecological factors affecting coral reef fisheries, artisanal seafood supply chains, and seafood security. *PlosOne* 10(8):e0123856.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1371/journal.pone.0123856){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2014
 
-Benbow, S., F. Humber, T. Oliver, **K.L.L. Oleson**, D. Raberinary, M. Nadon, [H. Ratsimbazafy]{.underline}, and A.
-Harris (2014).
-Lessons learnt from experimental temporary octopus fishing closures in southwest Madagascar: benefits of concurrent closures.
-African Journal of Marine Science 36(1): 31-37.
+Benbow, S., F. Humber, T. Oliver, **K.L.L. Oleson**, D. Raberinary, M. Nadon, [H. Ratsimbazafy]{.underline}, and A. Harris (2014). Lessons learnt from experimental temporary octopus fishing closures in southwest Madagascar: benefits of concurrent closures. *African Journal of Marine Science* 36(1): 31-37.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.2989/1814232X.2014.893256){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2013
 
-Ostergaard-Klem, R.
-and **K.L.L. Oleson** (2013).
-GPI Island Style: Localizing the Genuine Progress Indicator to Hawaii.
-Environmental Practice 16(3):1-11.
+Ostergaard-Klem, R. and **K.L.L. Oleson** (2013). GPI Island Style: Localizing the Genuine Progress Indicator to Hawaii. *Environmental Practice* 16(3):1-11.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1017/S1466046614000192){.btn .btn-outline-light .btn-theme target="_blank"}
 
-Arrow, K., P. Dasgupta, L. Goulder, K. Mumford, and **K.L.L. Oleson** (2013).
-Sustainability and the measurement of wealth: Further reflections.
-Environment and Development Economics 18:504-516.
+Arrow, K., P. Dasgupta, L. Goulder, K. Mumford, and **K.L.L. Oleson** (2013). Sustainability and the measurement of wealth: Further reflections. *Environment and Development Economics* 18:504-516.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1017/S1355770X13000193){.btn .btn-outline-light .btn-theme target="_blank"}
 
-[Barnes-Mauthe]{.underline}\*, M., **K.L.L. Oleson**\*, and B.
-Zafindrasilivonona (2013).
-A total economic valuation of small-scale fisheries and characterization of post-landings trends.
-Fisheries Research 147:175-185.
+[Barnes-Mauthe]{.underline}\*, M., **K.L.L. Oleson**\*, and B. Zafindrasilivonona (2013). A total economic valuation of small-scale fisheries and characterization of post-landings trends. *Fisheries Research* 147:175-185.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1016/j.fishres.2013.05.011){.btn .btn-outline-light .btn-theme target="_blank"}
 
-Gardner, C., M.E. Nicholl, T. Mbohoahy, **K.L.L. Oleson**, A.N. Ratsifandrihamanana, J. Ratsirarson, L.R.
-de Roland, M. Virah-Sawmy, B. Zafindrasilivonona, and Z.G.
-Davies (2013) Protected areas for conservation and poverty alleviation: experiences from Madagascar.
-Journal of Applied Ecology 50(6):1289-1294.
+Gardner, C., M.E. Nicholl, T. Mbohoahy, **K.L.L. Oleson**, A.N. Ratsifandrihamanana, J. Ratsirarson, L.R. de Roland, M. Virah-Sawmy, B. Zafindrasilivonona, and Z.G. Davies (2013) Protected areas for conservation and poverty alleviation: experiences from Madagascar. *Journal of Applied Ecology* 50(6):1289-1294.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1111/1365-2664.12164){.btn .btn-outline-light .btn-theme target="_blank"}
 
-Westerman, K., **K.L.L. Oleson**, and A.
-Harris (2013).
-Building socio-ecological resilience to climate change through community-based coastal conservation and development: Experiences in southern Madagascar.
-Western Indian Ocean Journal of Marine Science 11(1):87-97.
+Westerman, K., **K.L.L. Oleson**, and A. Harris (2013). Building socio-ecological resilience to climate change through community-based coastal conservation and development: Experiences in southern Madagascar. *Western Indian Ocean Journal of Marine Science* 11(1):87-97.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://www.researchgate.net/publication/266478087_Building_Socio-ecological_Resilience_to_Climate_Change_through_Community-Based_Coastal_Conservation_and_Development_Experiences_in_Southern_Madagascar){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2012
 
-Arrow, K., P. Dasgupta, L. Goulder, K. Mumford, and **K.L.L. Oleson** (2012).
-Sustainability and the measurement of wealth.
-Environment and Development Economics 17(3):317-353.
+Arrow, K., P. Dasgupta, L. Goulder, K. Mumford, and **K.L.L. Oleson** (2012). Sustainability and the measurement of wealth. *Environment and Development Economics* 17(3):317-353.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1017/S1355770X12000137){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2011
 
-**Oleson, K.L.L.** (2011) Shaky foundations and sustainable exploiters: Problems with using national sustainability measures in a transnational era.
-Journal of Environment and Development 20(3):329-349.
+**Oleson, K.L.L.** (2011) Shaky foundations and sustainable exploiters: Problems with using national sustainability measures in a transnational era. *Journal of Environment and Development* 20(3):329-349.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1177/1070496511416747){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2010
 
-Khagram, S., K. Cahill, D. MacMynowski, J. Warren, E. Richards, **K.L.L. Oleson**, J. Kitzes, R. Katz, R. Hwang, R. Goldman, J. Funk, and K.
-Brauman (2010) Thinking about knowing: Intellectual foundations for interdisciplinary research.
-Environmental Conservation 37(4):388.
+Khagram, S., K. Cahill, D. MacMynowski, J. Warren, E. Richards, **K.L.L. Oleson**, J. Kitzes, R. Katz, R. Hwang, R. Goldman, J. Funk, and K. Brauman (2010) Thinking about knowing: Intellectual foundations for interdisciplinary research. *Environmental Conservation* 37(4):388.
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1017/S0376892910000809){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2009
 
-Burke, M., **K.L.L. Oleson**, E. McCullough, and J.
-Gaskell (2009) A global model tracking water, nitrogen, and land inputs and virtual transfers from industrialized meat production and trade.
-Environmental Modeling and Assessment 14(2):179
+Burke, M., **K.L.L. Oleson**, E. McCullough, and J. Gaskell (2009) A global model tracking water, nitrogen, and land inputs and virtual transfers from industrialized meat production and trade. *Environmental Modeling and Assessment* 14(2):179
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](http://dx.doi.org/10.1007/s10666-008-9149-3){.btn .btn-outline-light .btn-theme target="_blank"}
 
-**Oleson, K.L.L.**, L. Hartzell, and M.
-Mastrandrea (2009) The baker's dozen: Key nations can and should act together to prevent further dangerous climate change.
-Intergenerational Justice Review 9(3):106
+**Oleson, K.L.L.**, L. Hartzell, and M. Mastrandrea (2009) The baker's dozen: Key nations can and should act together to prevent further dangerous climate change. *Intergenerational Justice Review* 9(3):106
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.24357/IGJR.3.3.575){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2007
 
-Galloway, J., M. Burke, E. Bradford, W. Falcon, J. Gaskell, E. McCullough, H. Mooney, R. Naylor, **K.L.L. Oleson**, V. Smil, H. Steinfeld, T. Wassenaar (2007) International trade in meat.
-Ambio 36(8)
+Galloway, J., M. Burke, E. Bradford, W. Falcon, J. Gaskell, E. McCullough, H. Mooney, R. Naylor, **K.L.L. Oleson**, V. Smil, H. Steinfeld, T. Wassenaar (2007) International trade in meat. *Ambio* 36(8)
 
-[Article](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Article](https://doi.org/10.1579/0044-7447(2007)36[622:ITIMTT]2.0.CO;2){.btn .btn-outline-light .btn-theme target="_blank"}
 
-## Book Chapters
+## Book Chapters^[Denotations: \* is co-primary author, and [students/advisees]{.underline} are underscored]
 
 ### 2017
 
-Finkbeiner, E.M., **K.L.L. Oleson**, J.T. Kittinger (2017).
-Social resilience in the Anthropocene ocean.
-In Conservation for the Anthropocene ocean.
-P.
-Levin and M.
-Poe (Eds.).
-Amsterdam:Elsevier.
+Finkbeiner, E.M., **K.L.L. Oleson**, J.T. Kittinger (2017). Social resilience in the Anthropocene ocean. In *Conservation for the Anthropocene ocean*. P. Levin and M. Poe (Eds.). Amsterdam:Elsevier.
 
-[Chapter](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Chapter](https://doi.org/10.1016/B978-0-12-805375-1.00005-2){.btn .btn-outline-light .btn-theme target="_blank"}
 
-**Oleson, K.L.L.**, K. Falinski, L. Teneva, S.J. Pittman (2017).
-Linking landscape and seascape conditions: Science, tools, and management.
-In Seascape Ecology: Taking landscape ecology into the sea, S.J.
-Pittman (Ed.).
-West Sussex:Wiley.
+**Oleson, K.L.L.**, [K. Falinski]{.underline}, L. Teneva, S.J. Pittman (2017). Linking landscape and seascape conditions: Science, tools, and management. In *Seascape Ecology: Taking landscape ecology into the sea*, S.J. Pittman (Ed.). West Sussex:Wiley.
 
-[Chapter](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Chapter](http://dx.doi.org/10.1016/j.jenvman.2016.12.067){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2012
 
 Munoz, P., E. Darkey, L. Pearson, **K.L.L. Oleson**, K. Mumford (2012).
-Chapter 4: Key findings.
-In Inclusive Wealth Report 2012.
-P.
-Dasgupta, A. Duraiappah, P. Munoz (Eds.).
-Cambridge UK: Cambridge University Press.
-This report was submitted to RIO+20 Conference on Sustainable Development.
+Chapter 4: Key findings. In Inclusive Wealth Report 2012. P. Dasgupta, A. Duraiappah, P. Munoz (Eds.). Cambridge UK: Cambridge University Press. This report was submitted to RIO+20 Conference on Sustainable Development.
 
-[Chapter](){.btn .btn-outline-light .btn-theme target="_blank"}
+<!-- [Chapter](){.btn .btn-outline-light .btn-theme target="_blank"} -->
 
 ### 2010
 
-Arrow, K.J., P. Dasgupta, L. Goulder, K.J. Mumford, **K.L.L. Oleson** (2010).
-China, the U.S., and Sustainability: Perspectives Based on Comprehensive Wealth.
-In G. Heal (Ed.), Is Economic Growth Sustainable?
-International Economics Association, Volume 148, London:Palgrave Macmillan.
+Arrow, K.J., P. Dasgupta, L. Goulder, K.J. Mumford, **K.L.L. Oleson** (2010). China, the U.S., and Sustainability: Perspectives Based on Comprehensive Wealth. In G. Heal (Ed.), *Is Economic Growth Sustainable?* International Economics Association, Volume 148, London:Palgrave Macmillan.
 
-[Chapter](){.btn .btn-outline-light .btn-theme target="_blank"}
+<!-- [Chapter](){.btn .btn-outline-light .btn-theme target="_blank"} -->
 
 ### 2008
 
-**Oleson, K.L.L.** (2008).
-Integrating the environment into economics in China -- A focus on exports.
-In E. Au, K. Lam, T. Zhu, M. Partidario (Eds.), International Experience on Strategic Environmental Assessment, Dept.
-Geog.
-and Resource Mgmt., The Chinese University of Hong Kong, Hong Kong:China.
+**Oleson, K.L.L.** (2008). Integrating the environment into economics in China -- A focus on exports. In E. Au, K. Lam, T. Zhu, M. Partidario (Eds.), *International Experience on Strategic Environmental Assessment*, Dept. Geog. and Resource Mgmt., The Chinese University of Hong Kong, Hong Kong:China.
 
-[Chapter](){.btn .btn-outline-light .btn-theme target="_blank"}
+<!-- [Chapter](){.btn .btn-outline-light .btn-theme target="_blank"} -->
 
-## Technical Reports
+## Technical Reports^[Denotations: \* is co-primary author, and [students/advisees]{.underline} are underscored]
 
 ### 2019
 
-Babcock, R., M. Barnes, A. Fung, W. Goodell, **K.L.L. Oleson**.
-Investigation of Cesspool Upgrade Alternatives in Upcountry Maui.
-Report to the Hawaiʻi Department of Health 2019.
+Babcock, R., M. Barnes, [A. Fung]{.underline}, W. Goodell, **K.L.L. Oleson**. Investigation of Cesspool Upgrade Alternatives in Upcountry Maui. Report to the Hawaiʻi Department of Health 2019.
 
-[Report](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Report](https://health.hawaii.gov/sdwb/files/2020/04/CesspoolUpgradeAlternativesUpcountryMaui.20191018_FinalReport.pdf){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2016
 
-Gove, J., J. Polovina, W. Walsh, A. Heenan, I.D. Williams, L. Wedding, R.J. Ingram, J. Lecky, **K.L.L. Oleson**, H. Walecka, S. Heron, C.S. Couch, E.J. Howell (2016).
-West Hawai'i Integrated Ecosystem Assessment: Ecosystem Trends and Status Report 2016.
-NOAA Technical Memorandum.
+Gove, J., J. Polovina, W. Walsh, A. Heenan, I.D. Williams, L. Wedding, [R.J. Ingram]{.underline}, [J. Lecky]{.underline}, **K.L.L. Oleson**, H. Walecka, S. Heron, C.S. Couch, E.J. Howell (2016). West Hawai'i Integrated Ecosystem Assessment: Ecosystem Trends and Status Report 2016. NOAA Technical Memorandum.
 
-[Report](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Report](https://repository.library.noaa.gov/view/noaa/12106){.btn .btn-outline-light .btn-theme target="_blank"}
 
 ### 2015
 
 Maynard, J., B. Parker, R. Beeden, J. Tamelander, P. McGowan, L. Gramer, S. Heron, M. Kendall, S. McKagan, E. McLeod, **K. Oleson**, and S.
-Pittman (2015).
-Coral Reef Resilience Research and Management -- Past, Present and Future: Workshop Report.
-Silver Spring, MD: NOAA Coral Reef Conservation Program.
-NOAA Technical Memorandum CRCP 20.
-47pp.
-doi:10.7289/V5VQ30M9.
+Pittman (2015). Coral Reef Resilience Research and Management -- Past, Present and Future: Workshop Report. Silver Spring, MD: NOAA Coral Reef Conservation Program. NOAA Technical Memorandum CRCP 20. 47pp. doi:10.7289/V5VQ30M9.
 
-[Report](){.btn .btn-outline-light .btn-theme target="_blank"}
+[Report](https://repository.library.noaa.gov/view/noaa/901){.btn .btn-outline-light .btn-theme target="_blank"}
 
-Ostergaard-Klem, R.
-and **K.L.L. Oleson** (2015).
-The tie between invasive species and the economy.
-Department of Health Environmental Council's Annual Report.
+Ostergaard-Klem, R. and **K.L.L. Oleson** (2015). The tie between invasive species and the economy. Department of Health Environmental Council's Annual Report.
 
-[Report](){.btn .btn-outline-light .btn-theme target="_blank"}
+<!-- [Report](){.btn .btn-outline-light .btn-theme target="_blank"} -->
 
 ### 2013
 
-Ostergaard-Klem, R.
-and **K.L.L. Oleson** (2013).
-Environmental Council Annual Report State of Hawaiʻi.
+Ostergaard-Klem, R. and **K.L.L. Oleson** (2013). Environmental Council Annual Report State of Hawaiʻi.
 
-[Report](){.btn .btn-outline-light .btn-theme target="_blank"}
+<!-- [Report](){.btn .btn-outline-light .btn-theme target="_blank"} -->
 
 ### 2012
 
 Regina Ostergaard-Klem, **K.L.L. Oleson** (2012) Hawai'i State Environmental Council Annual Report.
 
-[Report](){.btn .btn-outline-light .btn-theme target="_blank"}
+<!-- [Report](){.btn .btn-outline-light .btn-theme target="_blank"} -->
