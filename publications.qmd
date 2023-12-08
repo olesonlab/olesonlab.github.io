@@ -255,7 +255,7 @@ Finkbeiner, E.M., **K.L.L. Oleson**, J.T. Kittinger (2017). Social resilience in
 
 **Oleson, K.L.L.**, [K. Falinski]{.underline}, L. Teneva, S.J. Pittman (2017). Linking landscape and seascape conditions: Science, tools, and management. In *Seascape Ecology: Taking landscape ecology into the sea*, S.J. Pittman (Ed.). West Sussex:Wiley.
 
-[Chapter](http://dx.doi.org/10.1016/j.jenvman.2016.12.067){.btn .btn-outline-light .btn-theme target="_blank"}
+<!-- [Chapter](){.btn .btn-outline-light .btn-theme target="_blank"} -->
 
 ### 2012
 
