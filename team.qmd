@@ -4,24 +4,29 @@ format: html
 editor: visual
 ---
 
-![](images/oleson_lab_current_members.jpg){fig-align="center" .rounded}
+![](images/2023_oleson-lab_group-photo.jpg){.rounded fig-align="center"}
 
 ## Principal Investigator
 
-### Kirsten L.L. Oleson 
+### Kirsten L.L. Oleson <br>
 
-::: {.column-margin}
+:::: {.columns}
+::: {.column width="40%"}
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <center>
-![](images/kirsten_oleson_headshot.jpeg){.rounded}
 
-<br>
+![](images/2023_kirsten-oleson_headshot.jpeg){.rounded width="250"}
+
 [{{< ai orcid size=Huge >}}](https://orcid.org/0000-0002-7992-5051) 
-[{{< ai google-scholar size=Huge >}}](https://scholar.google.com/citations?user=4pP2V9wAAAAJ&hl=en&oi=ao)
-[{{< ai researchgate size=Huge >}}](https://www.researchgate.net/profile/Kirsten_Oleson) 
-</center><br>
+[{{< ai google-scholar size=Huge >}}](https://scholar.google.com/citations?user=4pP2V9wAAAAJ&hl=en&oi=ao) 
+[{{< ai researchgate size=Huge >}}](https://www.researchgate.net/profile/Kirsten_Oleson)
+
+</center>
 
 :::
+
+::: {.column width="60%"}
 
 I am an ecological economist.
 This "discipline" is actually an amalgam of many disciplines and schools of thought: economics, ethics, sociology, and environmental science, among many others.
@@ -52,27 +57,130 @@ In January of 2012 I started with the [University of Hawaii -- Department of Nat
 My research focuses on improving natural resource and environmental management by integrating methods, approaches, and tools from economics, geography, natural science, decision science, and political science.
 In 2021, I was awarded a [Pew Marine Conservation Fellowship to build coastal ecosystem accounts for Hawaiʻi](https://www.pewtrusts.org/en/projects/marine-fellows/fellows-directory/2021/kirsten-ll-oleson).
 
+:::
+
+::::
+
 ## Current Lab Members
 
 ### Post-Doctoral Fellows
 
 #### Anders Dugstad
 
-#### Ashley Lowe MacKenzie
+#### Ashley Lowe MacKenzie <br>
 
-#### Mia Comeros
+:::: {.columns}
+::: {.column width="40%"}
+
+<center>
+
+![](images/2023_ashley-lowe-mackenzie_headshot.jpeg){.rounded height="240"}
+
+[{{< ai google-scholar size=Huge >}}](https://scholar.google.com/citations?user=0PteQJcAAAAJ&hl=en) 
+[{{< ai researchgate size=Huge >}}](https://www.researchgate.net/profile/Ashley_Lowe_Mackenzie)
+
+</center>
+
+:::
+
+::: {.column width="60%"}
+
+Ashley is an applied environmental economist specializing in the intersection of social and ecological systems, particularly in public lands and outdoor recreation.
+She received a PhD in Applied Economics from Oregon State University and joined the lab in June of 2023.
+
+Her research addresses emerging questions in outdoor recreation and public land management, including driving factors for demand, management strategies and various quantitative nonmarket valuation methods.
+Ashley's current lab project is focusing on valuing the impacts of ocean acidification on coral reefs through ecosystem provision of recreation and tourism.
+
+:::
+
+::::
 
 ### PhD Students
 
 #### Alohi Nakachi
 
+#### Elanur Ural <br>
+
+:::: {.columns}
+::: {.column width="40%"}
+
+<center>
+
+![](images/2023_ela-ural_headshot.jpg){.rounded width="250"}
+
+[{{< fa brands orcid size=Huge >}}]() 
+[{{< fa brands linkedin size=Huge >}}]() 
+[{{< fa brands github size=Huge >}}]()
+
+</center>
+
+:::
+
+::: {.column width="60%"}
+
+<br><br><br>
+
+Ela is a PhD student out of the Department of Economics at University of Hawai’i at Mānoa. Her research primarily focuses on agriculture and natural resources, with particular interest in the role of social institutions. She works under the Oleson Lab's coastal ecosystem accounting team on the valuation of fisheries for the main Hawaiian islands.
+
+:::
+
+::::
+
 #### Lansing Perng
 
-#### Louis Chua
+#### Louis Chua <br>
+
+:::: {.columns}
+::: {.column width="40%"}
+
+<center>
+
+![](images/2023_louis-chua_heashot.jpeg){.rounded height="250"}
+
+[{{< fa brands orcid size=Huge >}}]() 
+[{{< fa brands linkedin size=Huge >}}]() 
+[{{< fa brands github size=Huge >}}]()
+
+</center>
+
+:::
+
+::: {.column width="60%"}
+
+<br><br>
+
+Louis is a PhD Candidate in the Department of Natural Resources and Environmental Management (NREM) at University of Hawai’i at Mānoa. He is currently working on Natural Capital Accounting (NCA) and ecosystem valuation projects across the Main Hawaiian Islands.
+
+:::
+
+::::
 
 ### Master's of Science Students
 
-#### Ann Nyambega
+#### Ann Nyambega <br>
+
+:::: {.columns}
+::: {.column width="40%"}
+
+<center>
+
+![](images/2023_ann-nyambega_headshot.jpg){.rounded width="250"}
+
+[{{< fa brands orcid size=Huge >}}]() 
+[{{< fa brands linkedin size=Huge >}}]() 
+[{{< fa brands github size=Huge >}}]()
+
+</center>
+
+:::
+
+::: {.column width="60%"}
+
+Ann, an MS student, specializes in employing Theory of Change methodology for conducting localized monitoring and evaluation of Ecosystem-based Adaptation projects in Hawaii. Holding a bachelor’s degree in Environmental Planning and Management, she brings a wealth of experience in facilitating the implementation of climate adaptation projects in the Kenyan context. Ann’s research underscores her commitment to advancing and enhancing sustainable localized solutions and enhancing resilience within the socio-ecological landscape.
+
+:::
+
+::::
 
 ### Master's of Environmental Management Students
 
@@ -82,24 +190,58 @@ In 2021, I was awarded a [Pew Marine Conservation Fellowship to build coastal ec
 
 ### Research Assistants
 
-#### Alemarie Ceria
+#### Alemarie Ceria <br>
 
-::: {.column-margin}
+:::: {.columns}
+::: {.column width="40%"}
 
 <center>
-![](images/alemarie_ceria_headshot.jpg){.rounded}
 
-<br>
-[{{< fa brands orcid size=Huge >}}](https://orcid.org/0000-0002-3039-7323)
+![](images/2023_alemarie-ceria_headshot.jpg){.rounded width="250"}
+
+[{{< fa brands orcid size=Huge >}}](https://orcid.org/0000-0002-3039-7323) 
 [{{< fa brands linkedin size=Huge >}}](https://www.linkedin.com/in/alemarieceria/) 
-[{{< fa brands github size=Huge >}}](https://github.com/alemarieceria) 
+[{{< fa brands github size=Huge >}}](https://github.com/alemarieceria)
+
 </center>
+
 :::
 
-Alemarie Ceria, a Research Data Analyst, holds a B.A.
-in Economics from the University of Hawaii at Manoa. Nearing her third year in the lab, she is actively engaged in the Hawaii Coastal Ecosystem Accounting (CEA), the California Innovations at the Nexus of Food, Energy, and Water Systems (INFEWS), and Ocean Acidification (OA) projects. Her responsibilities encompass comprehensive data management, collection, and analysis. Additionally, she focuses on developing visualizations for reports, presentations, and papers while reinforcing the reproducibility of research across the lab's diverse projects. She co-authored "[Detecting Religion from Space: Nyepi Day in Bali](https://www.sciencedirect.com/science/article/abs/pii/S2352938521001440?via%3Dihub)," published in *Remote Sensing Applications: Society and Environment* on September 6, 2021.
+::: {.column width="60%"}
 
-#### Kate Crowell
+
+Alemarie Ceria, a Research Data Analyst, holds a B.A. in Economics from the University of Hawaii at Manoa. Nearing her third year in the lab, she is actively engaged in the Hawaii Coastal Ecosystem Accounting (CEA), the California Innovations at the Nexus of Food, Energy, and Water Systems (INFEWS), and Ocean Acidification (OA) projects. Her responsibilities encompass comprehensive data management, collection, and analysis.
+Additionally, she focuses on developing visualizations for reports, presentations, and papers while reinforcing the reproducibility of research across the lab's diverse projects. She co-authored "[Detecting Religion from Space: Nyepi Day in Bali](https://www.sciencedirect.com/science/article/abs/pii/S2352938521001440?via%3Dihub)," published in *Remote Sensing Applications: Society and Environment* on September 6, 2021.
+
+:::
+
+::::
+
+#### Kate Crowell <br>
+
+:::: {.columns}
+::: {.column width="40%"}
+
+<center>
+
+![](images/2023_kate-crowell_headshot.png){.rounded width="250"}
+
+[{{< fa brands orcid size=Huge >}}]() 
+[{{< fa brands linkedin size=Huge >}}]() 
+[{{< fa brands github size=Huge >}}]()
+
+</center>
+
+:::
+
+::: {.column width="60%"}
+
+
+Kate is a research assistant in the Oleson Ecological Economics Lab, working on starting a Donut Economics Action Lab, in addition to continuing collaborative research on the Genuine Progress Indicator with the state. She joined the lab in Spring 2021, where she started as an undergraduate research assistant. Kate recently graduated from the University of Hawaiʻi at Mānoa with a B.S. in Natural Resources and Environmental Management (NREM) and B.A. in Political Science, and is expanding on her previous research in the lab post-grad.
+
+:::
+
+::::
 
 #### Whitney Goodell
 
