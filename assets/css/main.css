@@ -780,6 +780,20 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+.about .team-portrait {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: var(--portrait-focus, 50% 50%);
+}
+
+#sam .team-portrait {
+  --portrait-focus: 50% 65%;
+}
+
 .about .content h2 {
   font-weight: 700;
   font-size: 24px;
