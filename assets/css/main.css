@@ -794,6 +794,48 @@ section,
   --portrait-focus: 50% 65%;
 }
 
+#yinphan .team-portrait,
+#students-ra .team-portrait {
+  --portrait-focus: 50% 28%;
+}
+
+.about .team-portrait-frame {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.about .team-portrait-frame .team-portrait {
+  border-radius: 0;
+  transform: scale(var(--portrait-zoom, 1));
+  transform-origin: var(--portrait-zoom-origin, center);
+}
+
+.portrait-pi {
+  --portrait-zoom: 1.35;
+  --portrait-zoom-origin: 0 0;
+}
+
+.portrait-ann {
+  --portrait-zoom: 1.35;
+  --portrait-zoom-origin: 50% 100%;
+}
+
+.portrait-sophie {
+  --portrait-zoom: 1.6;
+  --portrait-zoom-origin: 73% 54%;
+}
+
+.about .team-portrait-placeholder {
+  display: grid;
+  place-items: center;
+  background: var(--surface-color);
+  color: var(--default-color);
+  border: 1px solid color-mix(in srgb, var(--default-color) 14%, transparent);
+  font-size: clamp(2.5rem, 8vw, 6rem);
+}
+
 .about .content h2 {
   font-weight: 700;
   font-size: 24px;
