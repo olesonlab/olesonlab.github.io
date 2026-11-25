@@ -799,6 +799,10 @@ section,
   --portrait-focus: 50% 28%;
 }
 
+#arushi .team-portrait {
+  --portrait-focus: 50% 12%;
+}
+
 .about .team-portrait-frame {
   width: 100%;
   aspect-ratio: 1;
