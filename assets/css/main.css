@@ -941,9 +941,7 @@ section,
 }
 
 .team-research-interests {
-  border-inline-start: 2px solid var(--accent-color);
   margin-bottom: .75rem;
-  padding-inline-start: .6rem;
   font-size: .9rem;
   line-height: 1.45;
 }
