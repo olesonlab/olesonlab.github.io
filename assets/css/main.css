@@ -940,6 +940,37 @@ section,
   font-size: 24px;
 }
 
+.team-member-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .15rem .6rem;
+  margin-bottom: .5rem;
+}
+
+.team-member-heading h2 {
+  margin-bottom: 0;
+}
+
+.team-member-links {
+  display: flex;
+  gap: .15rem;
+}
+
+.team-member-links a {
+  display: inline-grid;
+  min-width: 30px;
+  min-height: 30px;
+  place-items: center;
+  border-radius: .25rem;
+  font-size: 1.1rem;
+}
+
+.team-member-links a:focus-visible {
+  outline: 2px solid var(--accent-color);
+  outline-offset: 2px;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
