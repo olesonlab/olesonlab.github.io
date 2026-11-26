@@ -946,6 +946,11 @@ section,
   line-height: 1.45;
 }
 
+.team-bio-quote {
+  font-style: italic;
+  quotes: "“" "”" "‘" "’";
+}
+
 .team-member-heading {
   display: flex;
   flex-wrap: wrap;
