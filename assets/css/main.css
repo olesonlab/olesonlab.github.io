@@ -798,7 +798,7 @@ section,
   --portrait-focus: 50% 65%;
 }
 
-:is(#yinphan, #students-ra, [data-portrait-member="yinphan"], [data-portrait-member="students-ra"]) .team-portrait {
+:is(#yinphan, #micaiah, [data-portrait-member="yinphan"], [data-portrait-member="micaiah"]) .team-portrait {
   --portrait-focus: 50% 28%;
 }
 
@@ -906,7 +906,8 @@ section,
   font-weight: 600;
 }
 
-.team-bio-anchor {
+.team-bio-anchor,
+.team-group-anchor {
   scroll-margin-top: 7rem;
 }
 
@@ -924,7 +925,8 @@ section,
     font-size: .8rem;
   }
 
-  .team-bio-anchor {
+  .team-bio-anchor,
+  .team-group-anchor {
     scroll-margin-top: 5rem;
   }
 }
