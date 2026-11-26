@@ -941,19 +941,11 @@ section,
 }
 
 .team-research-interests {
-  border-inline-start: 3px solid var(--accent-color);
-  margin-bottom: 1.25rem;
-  padding-inline-start: .85rem;
-}
-
-.team-research-interests h3 {
-  margin-bottom: .25rem;
-  font-size: 1rem;
-  font-weight: 700;
-}
-
-.team-research-interests p {
-  margin-bottom: 0;
+  border-inline-start: 2px solid var(--accent-color);
+  margin-bottom: .75rem;
+  padding-inline-start: .6rem;
+  font-size: .9rem;
+  line-height: 1.45;
 }
 
 .team-member-heading {
