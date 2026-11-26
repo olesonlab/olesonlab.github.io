@@ -38,8 +38,18 @@
   const list = directory?.querySelector('.team-directory-grid');
   if (!list) return;
 
+  const sections = [...document.querySelectorAll('main > section.about[id]')];
+  // The directory may override the bio order without changing any bio anchors.
+  const directoryOrder = sections.slice();
+  for (const section of sections) {
+    const before = sections.find((target) => target.id === section.dataset.directoryBefore);
+    if (!before || before === section) continue;
+    directoryOrder.splice(directoryOrder.indexOf(section), 1);
+    directoryOrder.splice(directoryOrder.indexOf(before), 0, section);
+  }
+
   const cards = document.createDocumentFragment();
-  for (const section of document.querySelectorAll('main > section.about[id]')) {
+  for (const section of directoryOrder) {
     const heading = section.querySelector('.content > h2');
     const bio = heading?.closest('.row');
     const portrait = section.querySelector('.team-portrait-frame, .team-portrait');
