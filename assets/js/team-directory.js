@@ -3,6 +3,7 @@
     { name: 'LinkedIn', icon: 'bi-linkedin', matches: (url) => /^(?:www\.)?linkedin\.com$/.test(url.hostname) && /^\/in\/[^/]+\/?$/.test(url.pathname) },
     { name: 'GitHub', icon: 'bi-github', matches: (url) => url.hostname === 'github.com' && /^\/[\w-]+\/?$/.test(url.pathname) },
     { name: 'Google Scholar', icon: 'bi-mortarboard-fill', matches: (url) => url.hostname === 'scholar.google.com' && url.pathname === '/citations' && Boolean(url.searchParams.get('user')) },
+    { name: 'ORCID', icon: 'bi-person-badge', matches: (url) => url.hostname === 'orcid.org' && /^\/(?:\d{4}-){3}\d{3}[\dX]\/?$/.test(url.pathname) },
   ];
 
   function addProfileIcons(heading, memberName) {
