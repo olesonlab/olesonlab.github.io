@@ -661,9 +661,13 @@ section,
   position: relative;
 }
 
-.section-title h2 {
+.section-title h2,
+.team-directory h1 {
   font-size: 32px;
   font-weight: 700;
+}
+
+.section-title h2 {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
@@ -850,7 +854,6 @@ section,
 
 .team-directory h1 {
   margin-bottom: .25rem;
-  font-size: clamp(1.65rem, 3vw, 2.1rem);
 }
 
 .team-directory-intro {
