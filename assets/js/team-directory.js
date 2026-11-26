@@ -1,8 +1,8 @@
 (() => {
   const platforms = [
-    { name: 'Google Scholar', icon: 'bi-mortarboard-fill', matches: (url) => url.hostname === 'scholar.google.com' && url.pathname === '/citations' && Boolean(url.searchParams.get('user')) },
-    { name: 'GitHub', icon: 'bi-github', matches: (url) => url.hostname === 'github.com' && /^\/[\w-]+\/?$/.test(url.pathname) },
     { name: 'LinkedIn', icon: 'bi-linkedin', matches: (url) => /^(?:www\.)?linkedin\.com$/.test(url.hostname) && /^\/in\/[^/]+\/?$/.test(url.pathname) },
+    { name: 'GitHub', icon: 'bi-github', matches: (url) => url.hostname === 'github.com' && /^\/[\w-]+\/?$/.test(url.pathname) },
+    { name: 'Google Scholar', icon: 'bi-mortarboard-fill', matches: (url) => url.hostname === 'scholar.google.com' && url.pathname === '/citations' && Boolean(url.searchParams.get('user')) },
   ];
 
   function addProfileIcons(heading, memberName) {
