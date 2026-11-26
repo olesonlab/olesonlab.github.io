@@ -940,6 +940,17 @@ section,
   font-size: 24px;
 }
 
+.team-research-interests {
+  margin-bottom: .75rem;
+  font-size: .9rem;
+  line-height: 1.45;
+}
+
+.team-bio-quote {
+  font-style: italic;
+  quotes: "“" "”" "‘" "’";
+}
+
 .team-member-heading {
   display: flex;
   flex-wrap: wrap;
