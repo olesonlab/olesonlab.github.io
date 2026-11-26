@@ -940,6 +940,22 @@ section,
   font-size: 24px;
 }
 
+.team-research-interests {
+  border-inline-start: 3px solid var(--accent-color);
+  margin-bottom: 1.25rem;
+  padding-inline-start: .85rem;
+}
+
+.team-research-interests h3 {
+  margin-bottom: .25rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.team-research-interests p {
+  margin-bottom: 0;
+}
+
 .team-member-heading {
   display: flex;
   flex-wrap: wrap;
